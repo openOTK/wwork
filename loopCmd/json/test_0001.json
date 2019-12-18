@@ -1,0 +1,37 @@
+{
+    "test0001":{
+        "name":"test0001",
+        "type":"string",
+        "action":"printStr",
+        "mode":"nomal",
+        "value":"コピーテキスト1"
+    },
+    "test0002":{
+        "name":"test0002",
+        "type":"string",
+        "action":"printStr",
+        "mode":"list",
+        "value":["コピーテキスト2-1", "コピーテキスト2-2", "コピーテキスト2-3"]
+    },
+    "test0003":{
+        "name":"test0003",
+        "type":"string",
+        "action":"printStr",
+        "mode":"nomal",
+        "value":"コピーテキスト3"
+    },
+    "test0004":{
+        "name":"test0004",
+        "type":"int",
+        "action":"calculation",
+        "mode":"plus",
+        "value":[100,10]
+    },
+    "test0005":{
+        "name":"test0005",
+        "type":"int",
+        "action":"calculation",
+        "mode":"minus",
+        "value":[200,-10]
+    }
+}

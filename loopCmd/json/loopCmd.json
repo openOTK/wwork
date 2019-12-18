@@ -1,0 +1,11 @@
+{
+    "const":{
+        "language":"python",
+        "version":"3.6.9"
+    },
+    "option":{
+        "name":"-n",
+        "type":"-t",
+        "value":"-v"
+    }
+}

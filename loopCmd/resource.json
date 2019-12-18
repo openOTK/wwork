@@ -1,0 +1,12 @@
+{
+    "propaty":{
+        "path":"json\\",
+        "name":"loopCmd",
+        "type":".json"
+    },
+    "target":{
+        "path":"json\\",
+        "name":"test_0001",
+        "type":".json"
+    }
+}
